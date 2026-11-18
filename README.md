@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-terminal.svg" width="1000" alt="Owjash Acharya — Computer Engineering at UT Dallas, Class of 2028. Backend, Full Stack, and Applied AI. Seeking Summer 2027 SWE internships.">
+  <img src="profile-terminal.svg" width="1000" alt="Owjash Acharya — Computer Engineering at UT Dallas, Class of 2028. Backend, Full Stack, and Applied AI. Seeking Summer 2027 SWE internships.">
 </p>
 
 <p align="center">
