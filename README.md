@@ -2,17 +2,20 @@
   <img src="profile-terminal.svg" width="1000" alt="Owjash Acharya — Computer Engineering at UT Dallas, Class of 2028. Backend, Full Stack, and Applied AI. Seeking Summer 2027 SWE internships.">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/owjash-acharya">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Owjash?tab=repositories">Repositories</a>
-</p>
+## 💫 About Me
 
-I'm a Computer Engineering student at **The University of Texas at Dallas**, graduating in **May 2028**, and based in Irving, Texas. I build applications with Java, Python, and React, with a focus on backend APIs, databases, and practical AI integrations.
+- 🎓 Computer Engineering student at UT Dallas | Graduating May 2028.
+- 💻 I build backend and full-stack applications with Java, Spring Boot, Python, and React.
+- 🌱 Currently strengthening my backend fundamentals, data structures and algorithms, and AI application development skills.
+- 🤝 Interested in collaborating on practical full-stack and AI-powered projects.
+- 🎯 Seeking Summer 2027 software engineering internships.
+- ⚡ Fun fact: I researched cobalt thin films during an NSF REU program before building AI-powered software.
 
-**Seeking Summer 2027 software engineering internships.**
+## 🌐 Connect
 
-## Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owjash-acharya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owjash.acharya.321@gmail.com)
+
+## 🚀 Featured Projects
 
 ### [Stockroom — AI Inventory Manager](https://github.com/Owjash/Stockroom)
 
@@ -39,16 +42,30 @@ A full-stack application for creating and joining campus study sessions. Include
 
 **Built with:** React · Python · FastAPI · SQLite
 
-## Technologies I've Used
+## 💻 Tech Stack
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Java, Python, C++, JavaScript, SQL |
-| Backend | Spring Boot, Spring AI, FastAPI, Django, REST APIs |
-| Frontend | React, HTML, CSS |
-| Data | PostgreSQL, pgvector, SQLite, SpacetimeDB |
-| Tools | Git, GitHub, Docker, Maven |
+**Languages & Web**
 
-## Beyond Software
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-As an **NSF REU undergraduate researcher**, I studied cobalt thin-film oxidation using X-ray Photoelectron Spectroscopy, documented experimental results, and presented my findings at the program symposium.
+**Frameworks**
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+**Also used:** Spring AI, Ollama, pgvector, SpacetimeDB, SQL, and REST APIs.
+
+## 📊 GitHub Stats
+
+![GitHub statistics for Owjash](https://github-readme-stats.shion.dev/api?username=owjash&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub contribution streak for Owjash](https://streak-stats.demolab.com/?user=owjash&theme=github_dark&hide_border=false)<br/>
+![Most-used repository languages for Owjash](https://github-readme-stats.shion.dev/api/top-langs/?username=owjash&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Badges and stats generated with GPRM: https://gprm.itsvg.in -->
